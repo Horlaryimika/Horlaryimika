@@ -20,7 +20,8 @@ Database design and management with both SQL and NoSQL technologies
 Cloud deployments and managing backend infrastructure on AWS
 Security best practices including authentication, authorization, and data encryption
 Integrating third-party services and APIs for seamless user experiences
-🌟 Featured Projects
+
+Featured Projects
 Here are a few projects I’ve worked on recently:
 
 1. Movie Recommendation API
@@ -29,8 +30,7 @@ A RESTful API that allows users to manage a movie database with full CRUD capabi
 
 
 Technologies: Node.js, Express, MongoDB, JWT
-Live Demo: Link to demo
-🌱 Currently Learning
+Currently Learning
 I always seeking to grow my skills and keep up with the latest technologies. Right now, I’m diving deeper into:
 
 GraphQL for more efficient data querying
